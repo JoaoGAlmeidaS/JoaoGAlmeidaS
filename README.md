@@ -1,10 +1,10 @@
 # Olá, eu sou o João Gabriel 👋
 
-Programador web júnior e estudante de Engenharia da Computação no IFMT, em Cuiabá (MT).
+Desenvolvedor web júnior e estudante de Engenharia da Computação no IFMT, em Cuiabá (MT).
 Gosto de construir aplicações completas: da interface em HTML, CSS e JavaScript ao back-end
 em Python, passando por banco de dados, testes automatizados e publicação.
 
-🔎 **Aberto a oportunidades como Programador Web Júnior.**
+🔎 **Aberto a oportunidades como Desenvolvedor Web Júnior.**
 
 ## Projetos
 
